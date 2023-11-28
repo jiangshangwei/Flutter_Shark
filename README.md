@@ -1,6 +1,6 @@
 # flutter_demo
 
-使用Flutter模仿鲨鱼记账项目的UI
+a sample flutter try
 
 ## Getting Started
 
