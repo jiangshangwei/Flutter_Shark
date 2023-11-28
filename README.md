@@ -1,16 +1,10 @@
-# flutter_dmeo
+# flutter_demo
 
-A new Flutter project.
+使用Flutter模仿鲨鱼记账项目的UI
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/jiangshangwei/flutter_shark/assets/13128163/fb08101d-4ed0-4a1d-96d3-cbcdde6d2a64" width="100px">
+<img src="https://github.com/jiangshangwei/flutter_shark/assets/13128163/a56cb39a-f482-482f-9663-2d5d6efde205" width="100px">
+<img src="https://github.com/jiangshangwei/flutter_shark/assets/13128163/942edfa0-ff91-40ef-85cf-82f264be6b29" width="100px">
+<img src="https://github.com/jiangshangwei/flutter_shark/assets/13128163/08e0249d-3f3f-432a-a867-7379557901e7" width="100px">
