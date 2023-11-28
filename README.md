@@ -1,5 +1,5 @@
 # flutter_demo
 
-a sample flutter try
+a sample flutter project
 
 ## Getting Started
